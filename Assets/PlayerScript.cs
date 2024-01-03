@@ -28,7 +28,7 @@ public class PlayerScript : MonoBehaviour
         }
         else
         {
-            mat.color = Color.white;
+            mat.color = Color.black;
         }
 
     }
